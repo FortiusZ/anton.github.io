@@ -24,7 +24,7 @@ La estética de la web contiene un diseño limpio y moderno, con imágenes inter
 
 ## Enlace a la web creada:
 
-https://jsbin.com/yusanirogu/edit?html,css,js,output
+fortiusz.github.io/web-anton/
 
 ## Licencia
 
