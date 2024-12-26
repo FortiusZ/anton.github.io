@@ -28,4 +28,8 @@ https://jsbin.com/yusanirogu/edit?html,css,js,output
 
 ## Licencia
 
-Este proyecto es de uso personal y se encuentra bajo la licencia [MIT](LICENSE).
+Este proyecto es de uso personal y se encuentra bajo la licencia Este proyecto está bajo la licencia CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+
+El trabajo ha sido colocado en dominio público de manera irrevocable.
+Puedes copiar, modificar, distribuir y realizar cualquier acción con este trabajo, incluso con fines comerciales, sin necesidad de pedir permiso.
+No se requieren créditos, aunque es de agradecer darlos siempre.
