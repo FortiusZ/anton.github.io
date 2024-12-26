@@ -7,12 +7,7 @@ Bienvenido a mi página web interactiva. Este es un proyecto personal que he cre
 
 Esta página web ha sido creada con fines educativos para aprender un poco sobre el mundo de la programación completando así una tarea propuesta por mi profesor de TIC. Dicha tarea consistía en la creación de una página web con alguna de las funcionalidades comentadas más adelante y a aprender a alojarla en github, creando las respectivas carpetas y archivos que permitan a cualquier usurario ver o reutilizar este proyecto sin ningún inconveniente. 
 
-Funcionalidades que contiene:
-
-- Se puede hacer clic en una imagen para moverla a la derecha y también se puede restablecer su posición.
-- Se puede cambiar el nombre que aparece en la página mediante un cuadro de entrada.
-- La estética de la web contiene un diseño limpio y moderno, con imágenes interactivas basado en una de las web recomendadas en mi tarea de TIC, *El CO2 en el cambio climático. La Cumbre del Clima en EL PAÍS*.
-
+La estética de la web contiene un diseño limpio y moderno, con imágenes interactivas basado en una de las web recomendadas en mi tarea de TIC, *El CO2 en el cambio climático. La Cumbre del Clima en EL PAÍS*.
 
 ## Código Usado:
 
@@ -29,7 +24,7 @@ Funcionalidades que contiene:
 
 ## Enlace a la web creada:
 
-
+https://jsbin.com/yusanirogu/edit?html,css,js,output
 
 ## Licencia
 
